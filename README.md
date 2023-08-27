@@ -15,7 +15,7 @@ secret data of Chrome Browser using penDrive.
 
 Instructions for downloading the project.
 
-> git clone https://github.com/md-rs01/chromedata-grabber
+        > git clone https://github.com/md-rs01/chromedata-grabber
 
 ### Or you can download zip file
 
