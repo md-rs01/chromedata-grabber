@@ -1,6 +1,6 @@
-# Get Windows PassWord By 1 Click
+# Get Windows Chrome Data in 1 Click
 
-This script is written for grab all
+This script is written to grab all
 secret data of Chrome Browser using penDrive.
 
 ## Table of Contents
