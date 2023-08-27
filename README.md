@@ -23,9 +23,12 @@ Instructions for downloading the project.
 
 Copy The `Start.ps1` file into your pendrive. Insert this pendrive into victim Computer. Then Run it with powershell.
 
-![Alt Text](images/1.PNG)
-![Alt Text](images/2.PNG)
-![Alt Text](images/3.PNG)
+![Source File](images/1.PNG)
+
+![Data Folder](images/2.PNG)
+
+![Default and Profiles folders](images/3.PNG)
+
 NB: Run it from your pendrive.
 
 ## Features
