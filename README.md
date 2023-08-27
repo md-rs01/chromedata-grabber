@@ -49,6 +49,11 @@ __Data Like__
         4. Visited Links
         5. Login Data
 </pre>
+
+### After Complete your task go to this link
+
+        https://github.com/ohyicong/decrypt-chrome-passwords
+
 ## Credits
 
 All Credits goes to `BoyFromBd`
