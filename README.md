@@ -36,14 +36,17 @@ Copy The `Start.ps1` file into your pendrive. Insert this pendrive into victim C
 ### NB: Run it from your pendrive.
 
 ## Features
-    ### By Using this tools you can steal anyone chrome data.
-        Data Like:
-                  1. History
-                  2. Bookmarks
-                  3. Web Data
-                  4. Visited Links
-                  5. Login Data
 
+### By Using this tools you can steal anyone chrome data.
+
+
+__Data Like__
+<pre>        1. History
+        2. Bookmarks
+        3. Web Data
+        4. Visited Links
+        5. Login Data
+</pre>
 ## Credits
 
 All Credits goes to `BoyFromBd`
